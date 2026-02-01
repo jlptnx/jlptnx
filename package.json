@@ -1,0 +1,12 @@
+{
+  "name": "jlpt-pass-pods",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "echo 'Select an app to run'",
+    "build": "echo 'Select an app to build'"
+  }
+}
